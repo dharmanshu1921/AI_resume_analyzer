@@ -1,4 +1,4 @@
-Google api key= AIzaSyA3Yzpb9TJWyrnd4HUSwOsMKwshgI6JdP0 || AIzaSyDh9st6KjRgYhdoy93vsK0QnK7fL3zmm_o || AIzaSyBhO5kvi2RaRSey8MhHEohqu5GRs_1A-YY ||  
+#Google api key
 
 python -m venv myenv
 source myenv/bin/activate
