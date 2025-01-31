@@ -8,6 +8,8 @@ pip freeze > requirements.txt
 
 python -m streamlit run app.py
 
+rm -rf .git
+
 git init
 echo "myenv/" >> .gitignore
 git add .gitignore
